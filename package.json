@@ -1,6 +1,6 @@
 {
   "name": "react-catchable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React子组件异常导致整个页面崩溃的解决方案",
   "main": "index.js",
   "dependencies": {

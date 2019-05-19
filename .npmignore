@@ -2,3 +2,6 @@
 /node_modules
 .gitignore
 tsconfig.json
+*.tgz
+package-lock.json
+yarn.lock
