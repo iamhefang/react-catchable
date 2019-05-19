@@ -1,0 +1,33 @@
+{
+  "name": "react-catchable",
+  "version": "1.0.0",
+  "description": "React子组件异常导致整个页面崩溃的解决方案",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.0",
+    "typescript": "^3.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublishOnly": "tsc",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamhefang/react-catchable.git"
+  },
+  "keywords": [
+    "react",
+    "catchable",
+    "exception"
+  ],
+  "author": "hefang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamhefang/react-catchable/issues"
+  },
+  "homepage": "https://github.com/iamhefang/react-catchable#readme"
+}
